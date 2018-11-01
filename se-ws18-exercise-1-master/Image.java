@@ -10,7 +10,7 @@
  	
  	private int width, height;
  	
- 	/*This is for constructor of Image class where parameters are widtha and height*/
+ 	/*This is for constructor of Image class where parameters are width and height*/
  	public Image(int width, int height) {
  		this.width = width;
 		this.height = height;
